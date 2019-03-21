@@ -6,7 +6,7 @@ def alphabetize(arr)
     arr.sort_by do |word|
       word.split('').map do |letter|
         esperanto.index(letter)
-      end 
+      end
     end 
 
 end
