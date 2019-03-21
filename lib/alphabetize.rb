@@ -8,6 +8,6 @@ def alphabetize(arr)
         esperanto.index(letter)
         binding.pry
       end
-    end 
+    end
 
 end
